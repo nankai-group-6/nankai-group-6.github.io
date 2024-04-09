@@ -1,0 +1,13 @@
+:root {
+    --box-border-radius: 20px;
+    --post-update-datetime: none;
+    --post-img-align: 0 auto;
+    --first-screen-font-size: 30px;
+    --first-screen-font-offset: 280px;
+    --base-font-family: 'OUT';
+    --base-font-size: 17px;
+    --first-screen-font-size: 40px;
+    --header-title-font-family: STKaiti;
+    --page-content-max-width: 1000px;
+    --header-height: 60px;
+}
